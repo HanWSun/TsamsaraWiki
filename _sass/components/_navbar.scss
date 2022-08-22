@@ -13,12 +13,16 @@
   }
   .navbar-brand {
     color: $primary;
+    opacity: 70%;
     @include script-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
+      opacity: 100%;
+      filter: drop-shadow(1px 1px 1px rgb(163, 117, 223));
       color: darken($primary, 10%);
+      animation: glitch 1s linear infinite;
     }
   }
   .navbar-nav {

@@ -28,6 +28,9 @@ altlogo:
   path: assets\img\NavitasAlt.png
   height: 60 #height in px, defaults to 52px
 
+worldmap:
+  path: assets\img\TsamsaraWorldMapV1.jpg
+
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:

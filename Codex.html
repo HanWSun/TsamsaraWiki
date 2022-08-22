@@ -8,6 +8,7 @@ title: Codex
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">The Codex</h2>
+        <hr>
         <h3 class="section-subheading">
           <p>
             In the Codex, information and lore on the world of Tsamsara and its inhabitants is divided into various categories.
@@ -19,13 +20,15 @@ title: Codex
     </div>
     <div class="row">
       {% for category in site.categories%}
-        <div class="col-md-4">
+        <div class="col-md-4" align="center">
           <a class="codex-link" href="{{category.url | relative_url}}">
-            <img class="img-fluid" src={{category.image}} alt="">
+            <div class="codex-hover glitch">
+              <img style="max-width: 150px;"class="img-fluid" src={{category.image}} alt="">
+            </div>
+            <div class="codex-caption">
+              <h4>{{ category.name }}</h4>
+            </div>
           </a>
-          <div class="codex-caption">
-            <h4>{{ category.name }}</h4>
-          </div>
         </div>
       {%endfor%}
     </div>

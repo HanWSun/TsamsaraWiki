@@ -8,8 +8,9 @@
     <a class="navbar-brand js-scroll-trigger" href="{{ site.baseurl }}/#">
       {%- if site.logo -%}
       <img
-        height="{{ site.logo.height | default: 52 }}"
-        src="{{ site.logo.path | absolute_url}}"
+        height="{{ site.altlogo.height | default: 52 }}"
+        src="{{ site.altlogo.path | absolute_url}}"
+        class="glitchlogo"
       />
       {%- else -%} {{ site.title }} {%- endif -%}
     </a>
@@ -45,10 +46,6 @@
         {%- endfor -%}
       </ul>
     </div>
-  </div>
-  <div id="mainNav" class="input.transparent-input">
-    <input  type="text" id="search-input" placeholder="search...">
-    <ul id="results-container"></ul>
   </div>
 </nav>
 <!-- End Navigation -->

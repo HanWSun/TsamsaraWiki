@@ -16,7 +16,58 @@
 }
 
 .codex-link {
-    &:hover {
-        background-color: $primary;
+    .codex-hover {
+      filter: blur(2px);
+      display: inline-block;
+      &:hover {
+        &:after,
+        &:before {
+          position: absolute;
+          left: 0;
+        }
+        &:before {
+          animation: glitchTop 1s linear infinite;
+          clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
+          -webkit-clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
+        }
+        filter: drop-shadow(1px 1px 1px #c94e4e) drop-shadow(1px 1px 2px rgb(72, 72, 255));
+        animation: glitch 1s linear infinite;
       }
+    }
+}
+
+@keyframes glitch{
+  2%,64%{
+    transform: translate(2px,0) skew(0deg);
+  }
+  4%,60%{
+    transform: translate(-2px,0) skew(0deg);
+  }
+  62%{
+    transform: translate(0,0) skew(5deg); 
+  }
+}
+
+@keyframes glitchTop{
+  2%,64%{
+    transform: translate(2px,-2px);
+  }
+  4%,60%{
+    transform: translate(-2px,2px);
+  }
+  62%{
+    transform: translate(13px,-1px) skew(-6deg); 
+  }
+}
+
+@keyframes glitchBottom{
+  2%,64%{
+    transform: translate(-2px,0);
+  }
+  4%,60%{
+    transform: translate(-2px,0);
+  }
+  62%{
+    transform: translate(-22px,5px) skew(10deg); 
+  }
 }

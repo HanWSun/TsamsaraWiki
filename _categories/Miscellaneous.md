@@ -1,6 +1,7 @@
 ---
 name: Miscellaneous
 image: assets/img/categories/info-2-256.png
+description: "\"Some may call this junk. Me, I call them treasures.\""
 ---
 
-This is the category for random crap
+Random tidbits and assorted crap live here.

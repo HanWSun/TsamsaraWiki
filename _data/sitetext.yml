@@ -87,7 +87,7 @@ en: &DEFAULT_EN
   team:
     title: "The heroes of our story"
     text: "Four souls, brought together by happenstance and a mutual, vague, disgust for each other seek to uncover the secrets of the Old World and survive the consequences. Whether they will succeed before the secrets of their past catches up to them, who knows?"
-    subtext: "*Primal's Grace, what have the four of you gotten yourselves into this time?* <br>-Hallis Kob"
+    subtext: "\"*Primal's Grace, what have the four of you gotten yourselves into this time?*\" <br>-Hallis Kob"
     section: team
     people:
       - name: "Amanita"
@@ -111,7 +111,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Kraft"
-        role: "A rogue with no secrets, stop asking. Is tolerated by Niamh. Played by Phil."
+        role: "A rogue with no secrets, really. Is tolerated by Niamh. Played by Phil."
         image: assets\img\team\kraftoken.png
         social:
           - url: https://twitter.com
@@ -147,7 +147,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Credits and Meta"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
