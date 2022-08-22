@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Census
-image: assets/img/portfolio/isleheim.png
+image: assets/img/postcategories/placeholder.jpg
 date: 2022-08-11 16:47
 category: Locations
 author: 
@@ -18,3 +18,4 @@ locationinfo:
   ruler: 
   established: 
 ---
+
