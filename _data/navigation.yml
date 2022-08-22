@@ -21,6 +21,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "The Heroes"
       section: team
+    - title: "The Map"
+      url: /Map.html
     - title: "Codex"
       url: /Codex.html
     - title: "Theme Source"

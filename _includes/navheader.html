@@ -3,7 +3,7 @@
     <div class="container">
 	  <a class="navbar-brand js-scroll-trigger" href="#page-top">
           {%- if site.altlogo -%}
-            <img height="{{ site.altlogo.height | default: 52 }}" src="{{ site.altlogo.path }}"/>
+            <img height="{{ site.altlogo.height | default: 52 }}" src="{{ site.altlogo.path }}" class="glitchlogo"/>
           {%- else -%}
             {{ site.title }}
           {%- endif -%}
