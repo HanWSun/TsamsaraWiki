@@ -20,17 +20,17 @@ layout: page
                 {{ content }}
             </div>
         </div>
-        <div class="row category-posts">
+        <div class="row">
             {% assign filtered_posts = site.posts | where: 'category', page.name %}
             {%for post in filtered_posts%}
                 <div class="col-sm-3">
-                    <a class="portfolio-link" href="{{post.url | relative_url}}">
-                        <img class="img-fluid" src={{"assets/img/Navitas.png" | absolute_url}} alt="">
-                    </a>
-                    <div class="category-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.summary }}</p>
+                    <a class="codex-link" href="{{post.url}}">
+                        <img class="img-fluid" src="{{post.image | absolute_url}}" alt="">
+                        <div class="category-caption">
+                            <h4 class="category-heading" >{{ post.title }}</h4>
+                            <p class="text-muted">{{ post.summary }}</p>
                         </div>
+                    </a>
                 </div>
             {%endfor%}
         </div>
