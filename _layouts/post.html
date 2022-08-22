@@ -6,7 +6,7 @@ layout: page
 <section class="page-section">
     <div class="container" id="pagecontainer">
         <div class="row">
-            <div class="col-lg-3 portfolio-item">
+            <div class="col-lg-4 portfolio-item">
                 <div class="text-center">
                     <img class="img-fluid" src={{page.image | absolute_url}} alt="">
                     <div class="post-caption">
@@ -16,7 +16,9 @@ layout: page
                 </div>
             </div>
             <div class="col-lg-6">
-                {{content}}
+                <div class="post-body">
+                    {{content}}
+                </div>
             </div>
         </div>
     </div>

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Codex
-background: grey
 ---
 
 <section class="page-section">
@@ -20,9 +19,9 @@ background: grey
     </div>
     <div class="row">
       {% for category in site.categories%}
-        <div class="col-md-2">
+        <div class="col-md-4">
           <a class="codex-link" href="{{category.url | relative_url}}">
-            <img class="img-fluid" src="assets/img/Navitas.png" alt="">
+            <img class="img-fluid" src={{category.image}} alt="">
           </a>
           <div class="codex-caption">
             <h4>{{ category.name }}</h4>
