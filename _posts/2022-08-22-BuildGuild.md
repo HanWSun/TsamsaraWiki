@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Jurp
+title: The Build Guild
 image: assets/img/postcategories/placeholder.jpg
 date: 2022-08-11 16:47
-category: Locations
+category: Factions
 author: 
 tags: []
-summary: Under Siege
+summary: 
 flavortext: 
 characterinfo:
   status: 
@@ -18,4 +18,3 @@ locationinfo:
   ruler: 
   established: 
 ---
-

@@ -1,6 +1,6 @@
 ---
 name: Discoveries
-image: assets/img/categories/flame-256.png
+image: assets\img\categories\sun-3-256.png
 description: "\"I am about to take my last voyage, a great leap in the dark.\""
 ---
 
