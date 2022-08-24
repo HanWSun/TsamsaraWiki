@@ -24,3 +24,12 @@
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
   }
 }
+
+.btn-back {
+  opacity: 70%;
+  &:active,
+  &:hover {
+    opacity: 100%;
+    filter: drop-shadow(1px 1px 1px rgb(163, 117, 223));
+  }
+}
