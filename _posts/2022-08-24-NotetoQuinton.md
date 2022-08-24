@@ -21,4 +21,4 @@ locationinfo:
 
 A note to someone named Quinton from an unknown agent from Benthia. Found by Niamh in the ruins of Prospero, underneath town hall.
 
-![NoteToQuinton](/assets\img\postcategories\discoveries\notetoquinton.png)
+![NoteToQuinton](/assets\img\postcategories\discoveries\notetoquinton.png){: .codexphoto}

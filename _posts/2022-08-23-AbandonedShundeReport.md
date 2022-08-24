@@ -20,6 +20,6 @@ locationinfo:
 ---
 Letters discovered in the Friends of Anata hideout beneath the abandoned Abbey. Embossed with the same symbol found on the bodies of Sibil's men in the Kaspian Peaks.
 
-![LetterToExalted](/assets\img\postcategories\discoveries\lettertoexalted.png)
+![LetterToExalted](/assets\img\postcategories\discoveries\lettertoexalted.png){: .codexphoto}
 
-![ExaltedResponse](/assets\img\postcategories\discoveries\exaltedresponse.png)
+![ExaltedResponse](/assets\img\postcategories\discoveries\exaltedresponse.png){: .codexphoto}

@@ -21,4 +21,4 @@ locationinfo:
 
 A torn scrap of paper, still slightly singed from the heat. Found in the ruins of Prospero, under town hall.
 
-![NavitasScrap](/assets\img\postcategories\discoveries\navitasscrap.png)
+![NavitasScrap](/assets\img\postcategories\discoveries\navitasscrap.png){: .codexphoto}

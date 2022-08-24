@@ -20,6 +20,6 @@ locationinfo:
 ---
 The decrypted contents of the flash drive given to the party by Eximus, the mechanical dragon found
 
-![EximusFlashDriveLog1](/assets\img\postcategories\discoveries\eximusflashdrivep1.png)
+![EximusFlashDriveLog1](/assets\img\postcategories\discoveries\eximusflashdrivep1.png){: .codexphoto}
 
-![EximusFlashDriveLog2](/assets\img\postcategories\discoveries\eximusflashdrivep2.png)
+![EximusFlashDriveLog2](/assets\img\postcategories\discoveries\eximusflashdrivep2.png){: .codexphoto}

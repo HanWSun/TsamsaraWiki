@@ -20,4 +20,4 @@ locationinfo:
 ---
 This is the moving picture displayed on the surface of the Shunde Black Box. Recovered from the derelict Shunde submarine and played at the Build Guild outpost in Benthia.
 
-![BlackBoxVideo](/assets\img\postcategories\discoveries\blackboxoutput.gif)
+![BlackBoxVideo](/assets\img\postcategories\discoveries\blackboxoutput.gif){: .codexphoto}

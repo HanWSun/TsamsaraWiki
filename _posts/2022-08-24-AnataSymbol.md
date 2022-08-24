@@ -21,4 +21,4 @@ locationinfo:
 
 A sigil/symbol encountered by the party several times. On the bodies of the bandits at the Kaspian Peaks, embossed on another black box found by Niamh in Prospero's ruins. On stationary found in the abandoned abbey in Jurp.
 
-![AnataSymbol](/assets\img\postcategories\discoveries\NavitasSymbol.jpg)
+![AnataSymbol](/assets\img\postcategories\discoveries\NavitasSymbol.jpg){: .codexphoto}

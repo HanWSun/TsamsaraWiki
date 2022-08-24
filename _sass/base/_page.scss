@@ -72,6 +72,13 @@ img::-moz-selection {
   background: transparent;
 }
 
+.codexphoto {
+  transition:transform 0.25s ease;
+}
+.codexphoto:active {
+  -webkit-transform:scale(1.5); /* or some other value */
+  transform:scale(1.5);
+}
 // img {
 //   transition:transform 0.25s ease;
 // }

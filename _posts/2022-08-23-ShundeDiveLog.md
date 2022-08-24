@@ -21,4 +21,4 @@ locationinfo:
 
 A log written by an unknown Shunde Monk detailing the dives taken in their secret submarine. Found in the derelect Shunde hideout beneath the Underwalls of Benthia.
 
-![DiveLog](/assets\img\postcategories\discoveries\shundedivelog.png)
+![DiveLog](/assets\img\postcategories\discoveries\shundedivelog.png){: .codexphoto}
