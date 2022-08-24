@@ -31,6 +31,9 @@ altlogo:
 worldmap:
   path: assets\img\TsamsaraWorldMapV1.jpg
 
+backbutton:
+  path: assets\img\arrow-left-2-48.png
+
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 collections:
