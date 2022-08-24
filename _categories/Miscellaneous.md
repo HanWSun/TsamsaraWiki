@@ -1,6 +1,6 @@
 ---
 name: Miscellaneous
-image: assets\img\categories\brush-4-256.png
+image: assets\img\categories\tree-51-256.png
 description: "\"Some may call this junk. Me, I call them treasures.\""
 ---
 
