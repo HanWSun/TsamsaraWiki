@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Found Scrap - Navitas
+title: Prospero - Found Scrap
 image: assets/img/postcategories/placeholder.jpg
 date: 2022-08-11 16:47
 category: Discoveries

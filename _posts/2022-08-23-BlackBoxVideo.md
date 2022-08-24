@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video from the Black Box
+title: Benthia - Black Box Pictures
 image: assets/img/postcategories/placeholder.jpg
 date: 2022-08-11 16:47
 category: Discoveries

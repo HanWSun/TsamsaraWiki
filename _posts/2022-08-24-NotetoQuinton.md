@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Note to Quinton
+title: Prospero - Note to Quinton
 image: assets/img/postcategories/placeholder.jpg
 date: 2022-08-11 16:47
 category: Discoveries

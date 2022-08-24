@@ -72,6 +72,15 @@ img::-moz-selection {
   background: transparent;
 }
 
+// img {
+//   transition:transform 0.25s ease;
+// }
+
+// img:hover {
+//   -webkit-transform:scale(1.5); /* or some other value */
+//   transform:scale(1.5);
+// }
+
 hr {
   border: 0;
   border-top: 2px solid whitesmoke;
