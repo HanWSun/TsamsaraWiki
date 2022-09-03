@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Agaricales
-image: assets/img/postcategories/placeholder.jpg
+image: assets\img\postcategories\locations\Agaricales.jpg
 date: 2022-08-11 16:47
 category: Locations
 author: 
 tags: []
-summary: 
+summary: Mycology!
 flavortext: 
 characterinfo:
   status: 

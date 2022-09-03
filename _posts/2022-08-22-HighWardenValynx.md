@@ -1,12 +1,12 @@
 ---
 layout: post
-title: High Warden Valynx
+title: Valynx
 image: assets/img/postcategories/placeholder.jpg
 date: 2022-08-11 16:47
 category: Inhabitants
 author: 
 tags: []
-summary: 
+summary: High Warden, House Representative, Hero
 flavortext: 
 characterinfo:
   status: 

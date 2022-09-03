@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Warding Gems
-image: assets/img/postcategories/placeholder.jpg
+image: assets\img\postcategories\arcana\WardingGem.jpg
 date: 2022-08-11 16:47
 category: Arcana
 author: 

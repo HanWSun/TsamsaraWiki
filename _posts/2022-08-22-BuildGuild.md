@@ -6,7 +6,7 @@ date: 2022-08-11 16:47
 category: Factions
 author: 
 tags: []
-summary: 
+summary: Scholar, Explorer, Artificer
 flavortext: 
 characterinfo:
   status: 

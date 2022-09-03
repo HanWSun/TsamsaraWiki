@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Shunde Monks
+title: Shunde Monks
 image: assets/img/postcategories/placeholder.jpg
 date: 2022-08-11 16:47
 category: Factions
 author: 
 tags: []
-summary: 
+summary: Might over magic
 flavortext: 
 characterinfo:
   status: 

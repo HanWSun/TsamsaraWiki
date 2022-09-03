@@ -6,7 +6,7 @@ date: 2022-08-11 16:47
 category: Culture and Religion
 author: 
 tags: []
-summary: 
+summary: Sacrifice above all
 flavortext: 
 characterinfo:
   status: 

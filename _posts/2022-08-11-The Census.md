@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Census
-image: assets/img/postcategories/placeholder.jpg
+image: assets\img\postcategories\locations\Census.png
 date: 2022-08-11 16:47
 category: Locations
 author: 

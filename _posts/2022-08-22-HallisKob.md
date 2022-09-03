@@ -6,7 +6,7 @@ date: 2022-08-11 16:47
 category: Inhabitants
 author: 
 tags: []
-summary: 
+summary: A cranky old man
 flavortext: 
 characterinfo:
   status: Alive

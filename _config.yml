@@ -29,7 +29,7 @@ altlogo:
   height: 60 #height in px, defaults to 52px
 
 worldmap:
-  path: assets\img\TsamsaraWorldMapV1.jpg
+  path: assets\img\TsamsaraWorldMapV2.jpg
 
 backbutton:
   path: assets\img\arrow-left-2-48.png
